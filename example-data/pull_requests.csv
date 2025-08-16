@@ -1,0 +1,9 @@
+pr_id,team,author,created_at,merged_at,lines_added,lines_deleted,review_time_hours,status
+pr_001,backend,alice,2024-01-14 09:00:00,2024-01-14 15:30:00,250,50,6.5,merged
+pr_002,frontend,bob,2024-01-14 10:30:00,2024-01-15 09:00:00,180,30,22.5,merged
+pr_003,data,charlie,2024-01-14 11:00:00,2024-01-15 11:00:00,450,120,24.0,merged
+pr_004,backend,alice,2024-01-15 08:30:00,2024-01-15 14:20:00,320,80,5.8,merged
+pr_005,mobile,diana,2024-01-15 14:00:00,2024-01-16 10:30:00,520,200,20.5,merged
+pr_006,frontend,bob,2024-01-16 09:00:00,2024-01-16 16:45:00,95,15,7.8,merged
+pr_007,data,charlie,2024-01-16 10:30:00,,680,150,,open
+pr_008,backend,alice,2024-01-17 08:00:00,2024-01-17 13:00:00,210,45,5.0,merged

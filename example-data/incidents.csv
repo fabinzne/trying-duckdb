@@ -1,0 +1,6 @@
+incident_id,team,service,start_time,end_time,severity,resolved_by,root_cause
+inc_001,backend,user-service,2024-01-15 12:30:00,2024-01-15 13:15:00,high,alice,database_connection
+inc_002,frontend,web-app,2024-01-15 15:00:00,2024-01-15 15:30:00,medium,bob,deployment_issue
+inc_003,data,analytics-pipeline,2024-01-16 02:00:00,2024-01-16 03:45:00,low,charlie,data_quality
+inc_004,backend,payment-service,2024-01-16 11:30:00,2024-01-16 12:00:00,critical,alice,payment_gateway
+inc_005,mobile,ios-app,2024-01-17 08:00:00,2024-01-17 08:20:00,medium,diana,app_crash

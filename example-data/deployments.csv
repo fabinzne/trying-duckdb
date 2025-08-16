@@ -1,0 +1,11 @@
+deployment_id,team,service,timestamp,duration_minutes,status,environment,commit_hash
+dep_001,backend,user-service,2024-01-15 09:30:00,12,success,production,abc123
+dep_002,frontend,web-app,2024-01-15 10:15:00,8,success,production,def456
+dep_003,data,analytics-pipeline,2024-01-15 11:00:00,25,failed,production,ghi789
+dep_004,backend,user-service,2024-01-15 14:20:00,15,success,staging,jkl012
+dep_005,mobile,ios-app,2024-01-15 16:45:00,30,success,production,mno345
+dep_006,backend,payment-service,2024-01-16 08:30:00,18,success,production,pqr678
+dep_007,frontend,web-app,2024-01-16 09:15:00,22,failed,production,stu901
+dep_008,data,ml-service,2024-01-16 10:30:00,45,success,production,vwx234
+dep_009,backend,user-service,2024-01-16 13:00:00,11,success,production,yza567
+dep_010,mobile,android-app,2024-01-16 15:30:00,35,success,production,bcd890
